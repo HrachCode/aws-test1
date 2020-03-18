@@ -1,0 +1,40 @@
+.modalOverlay{
+    background-image: url("./images/12635.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 3;
+}
+
+.modalOverlayFront{
+    background-color: rgba(15, 33, 58, 0.9);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.menu{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    top:20%;
+}
+
+.closeButton{
+    cursor: pointer;
+    position: absolute;
+    top:40px;
+    right:30px;
+    transform: rotate(0deg);
+    transition: transform 0.5s;
+    width: 50px;
+}
+
+
+.closeButton:hover {
+    transform: rotate(90deg);
+  }

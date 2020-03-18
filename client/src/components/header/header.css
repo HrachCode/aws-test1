@@ -1,0 +1,64 @@
+.headerKarkas{
+  position: fixed;
+  z-index: 2;
+}
+
+header{
+    background-color: #6FADD6;
+}
+
+header p{
+    color: #0F76BB;
+    font-size: 50px;
+    font-family: 'Bickham Script Pro';
+    margin: 0;
+}
+
+.image{
+    background-image: url("./images/home.png");
+    width: 30px;
+    height: 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Poxatc > .bord > .harc{
+    border-radius: 0 !important;
+    color: white !important;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+
+  .Poxatc > .bord > .harc:hover{
+    background-color:#007BFF !important;
+  }
+
+
+  @media only screen and (max-width: 1000px)  {
+
+    .menuTop, .flagTop{
+            display: none !important;
+        }
+
+        .image{
+          width: 100px;
+          height: 100px;
+      }
+
+      .logoImage img{
+        margin: 20px 0;
+        width: 150px;
+      }
+
+      #navbar {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        display: block;
+        transition: top 0.3s;
+        height: ;
+      }
+    }

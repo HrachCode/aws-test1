@@ -1,0 +1,36 @@
+.contactMe{
+    display: flex;
+    justify-content: center;
+}
+
+.contactMe div{
+    margin: 30px;
+    padding: 20px;
+    box-shadow:5px 5px 15px #000000;
+    text-align: center;
+}
+
+.contactMe div:hover{
+    margin: 30px;
+    box-shadow:15px 15px 30px #000000;
+}
+
+.prices{
+    margin-bottom: 65px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #0F75BC;
+}
+
+.phonNumber{
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+@media only screen and (max-width: 400px)  {
+    .mailContact{
+        font-size: 14px;
+    }
+    
+}

@@ -1,0 +1,49 @@
+{
+    "headerMenu":{
+        "1":"Dienstleistungen",
+        "2":"Über mich",
+        "3":"Kontakt",
+        "4":"Impressum"
+    },
+    "mainSrev":{
+        "1":"Eine Übersetzung ist dann gelungen, wenn der Leser sie nicht als Übersetzung wahrnimmt. Das klingt einfach, erfordert aber jahrelange Erfahrung und die Bereitschaft, jeden Tag zu lernen. Das tue ich seit mehr als 20 Jahren und jeden Tag entdecke und lerne ich etwas Neues. Höchste Anforderungen an Rechtschreibung, Grammatik und Stil, ist nur einige Aspekte für qualitativ hochwertige Übersetzungen, die mich immer wieder anspornen."
+    },
+    "services":{
+        "1":"Dienstleistungen",
+        "2":"Übersetzung und Lokalisierung",
+        "3":"Software und  Dokumentation in verschiedenen Formaten",
+        "4":"Marketingtexte für gedruckte Materialen",
+        "5":"Webseiten",
+        "6":"Bedienungsanleitungen, Handbücher",
+        "7":"Strick- und Häkelmuster",
+        "8":"Literatur",
+        "9":"Korrekturlesen/Bearbeiten"
+    },
+    "aboutMe":{
+        "1":"Über mich",
+        "2":"Nachdem ich in Deutschland und England die Schule besucht habe, entschied ich mich, für ein Übersetzerstudium. Mein Studium führte mich nach Spanien, wo ich Spanisch studiert habe , ehe ich an der Universität Hildesheim meinem Diplom in Internationaler Fachkommunikation, Sprachen: Englisch und Spanisch, erwarb.",
+        "3":"Meinen Abschluss habe ich 2007 gemacht und 2007-2012 als In-House-Übersetzer und technischer Redakteur für Medizinprodukte in Deutschland gearbeitet, ehe ich nach Norwegen ausgewandert bin, um in der Öl- und Gasindustrie als In-House-Übersetzer und technischer Redakteur tätig zu sein.",
+        "4":"2017 habe ich mich entschieden, als Freiberufler zu arbeiten. Ich genieße die Freiheit und die Verantwortung, selbst zu entscheiden, wie sehr ich arbeiten möchte und mich gleichzeitig dazu anzuspornen, qualitativ hochwertige Übersetzungen innerhalb einer festgelegten Frist zu liefern.",
+        "5":"Aufgrund meines technischen Hintergrunds kann ich qualitativ hochwertige Übersetzungen garantieren, insbesondere Dokumente wie Bedienungsanleitungen, Handbücher, Sicherheitsunterlagen und Patente. Außerdem übersetze ich auch Strick- und Häkelmuster.",
+        "6":"Eine zweite Leidenschaft von mir ist die Literaturübersetzen und ich habe mehrere",
+        "7":" Romane und Kinderbücher ",
+        "8":"übersetzt"
+    },
+    "contact":{
+        "1":"Kontakt",
+        "2":"Preise",
+        "3":"Bitte nehmen Sie für ein Angebot Kontakt auf.",
+        "4":"Schreiben Sie mir eine E-Mail:",
+        "5":"Rufen Sie mich an:"
+    },
+    "imprint":{
+        "1":"Impressum",
+        "2":"Roald Amundsens vei 16B",
+        "3":"3616 Kongsberg",
+        "4":"Norwegen",
+        "5":"Umsatzsteuer-Identifikationsnummer: 919 472 316MVA"
+    },
+    "footer":{
+        "1":"Copyright © 2020 All rights reserved | Designed by"
+    }
+}

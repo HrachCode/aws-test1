@@ -1,0 +1,48 @@
+{
+    "headerMenu":{
+        "1":"Services",
+        "2":"About Me",
+        "3":"Contact",
+        "4":"Imprint"
+    },
+    "mainSrev":{
+        "1":"A translation works when the reader does not recognize it as a translation. That sounds easy but requires years of experience and the willingness to study every single day. I have been doing it for more than 20 years and every single day I discover and learn something new. Applying highest standards in spelling, grammar and style is only one aspect for high-quality translations that never ceases to inspire me."
+    },
+    "services":{
+        "1":"Services",
+        "2":"Translation and localisation",
+        "3":"Software, and documentation in various formats",
+        "4":"Marketing texts for printed material",
+        "5":"Websites",
+        "6":"User manuals, handbooks",
+        "7":"Knitting and crochet patterns",
+        "8":"Fiction",
+        "9":"Proofreading/Editing"
+    },
+    "aboutMe":{
+        "1":"About Me",
+        "2":"After attending school in Germany and England I decided to go to university to become a professional translator. My studies took me to Spain where I studied Spanish before I graduated at the University of Hildesheim with a Diploma in Technical Translation, languages: English and Spanish.",
+        "3":"I got my degree in 2007 and worked 2007-2012 as in-house translator and technical writer for medical devices in Germany before moving to Norway to continue in-house translator and technical writer in the oil and gas industry.",
+        "4":"In 2017 I decided to start working as a freelancer. I enjoy the freedom, and responsibility involved, to decide myself how much I want to work and at the same time being pushed to deliver high-quality translations by a set deadline.",
+        "5":"Due to my technical background I can guarantee high quality translations especially documents such as user manuals, handbooks, safety documentation and patents. Besides I also translate knitting and crochet patterns.",
+        "6":"A second passion of mine is fiction and I have translated several",
+        "7":" novels and children's books."
+    },
+    "contact":{
+        "1":"Contact",
+        "2":"Prices",
+        "3":"Please message me for a quote.",
+        "4":"Send me an email:",
+        "5":"Call me on the phone:"
+    },
+    "imprint":{
+        "1":"Imprint",
+        "2":"Roald Amundsens vei 16B",
+        "3":"3616 Kongsberg",
+        "4":"Norway",
+        "5":"VAT ID no.: 919 472 316MVA"
+    },
+    "footer":{
+        "1":"Copyright © 2020 All rights reserved | Designed by"
+    }
+}

@@ -1,0 +1,25 @@
+.aboutMe ul li {
+    font-size: 15px;
+    color:#979797;
+    text-align: justify;
+}
+
+
+
+#DE{
+    display: none;
+}
+
+@media only screen and (max-width: 1000px)  {
+
+    .aboutMe ul li {
+        padding-top: 30px;
+        font-size: 40px;
+    }
+
+    .imgME img{
+        width: 100%;
+    }
+    
+}
+

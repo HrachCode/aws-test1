@@ -1,0 +1,76 @@
+.imprintKarkas{
+    background-color: #EBF7FF;
+}
+
+.imprintInf p{
+    margin: 0;
+}
+
+.imprintInf p:first-child{
+    font-weight: bold;
+}
+
+.imprintNum p{
+    margin: 0;
+}
+
+.infoJenni{
+    display: flex;
+}
+
+.nin{
+    color: rgba(0, 0, 0, 0);
+}
+
+
+@media only screen and (max-width: 1200px)  {
+    .imgMat{
+        max-width: 30%;
+    }
+
+    .infoJenni{
+        width: 500px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1000px)  {
+    .imgMat{
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    
+    .infMat{
+        margin-top: 30px;
+        width: 100%;
+    }
+
+    .infMat p{
+        
+        font-size: 30px;
+    }
+
+    .infoJenni{
+        width: 900px;
+    }
+
+    .vatID{
+        font-size: 30px;
+    }
+
+    .imprintKar{
+        display: block !important;
+    }
+    
+}
+
+@media only screen and (max-width: 600px)  {
+    .infoJenni{
+        margin-top: 20px;
+        display: block;
+    }
+    
+}
